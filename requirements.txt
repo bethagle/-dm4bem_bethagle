@@ -8,8 +8,6 @@ executing==2.2.1
 fonttools==4.60.1
 ipykernel==7.0.1
 ipython-pygments-lexers==1.1.1
-jax==0.8.0
-jaxlib==0.8.0
 jedi==0.19.2
 jupyter-client==8.6.3
 jupyter-core==5.9.1
@@ -42,5 +40,6 @@ tornado==6.5.2
 traitlets==5.14.3
 tzdata==2025.2
 wcwidth==0.2.14
+
 
 
